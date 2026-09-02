@@ -345,6 +345,3 @@ https://calendar.google.com
 
 # Google Meet
 https://meet.google.com
-
-chrome://chrome-urls
-chrome://serviceworker-internals

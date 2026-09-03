@@ -345,3 +345,6 @@ https://calendar.google.com
 
 # Google Meet
 https://meet.google.com
+
+# PCN Panel
+https://panel.pcsmp.net

@@ -1,5 +1,5 @@
 # Portal
-https://portal.pw
+https://yikes.pw
 
 # Google
 https://google.com
